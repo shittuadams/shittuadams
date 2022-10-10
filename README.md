@@ -13,7 +13,7 @@
 
 - 📫 How to reach me - **shttdms@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1FP5o2e-pDoJ2wd6zERpStz-4OdFt1w0X/edit](https://bit.ly/3CI7txc)
+- 📄 Know about my experiences [https://bit.ly/3CI7txc](https://bit.ly/3CI7txc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
