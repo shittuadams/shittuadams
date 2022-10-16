@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://shittuadams.github.io/My-Portfolio/](https://shittuadams.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://shittuadams.github.io/Portfolio/](https://shittuadams.github.io/My-Portfolio/)
 
 - 📝 I regularly write articles on [https://medium.com/@shittu_adams](https://medium.com/@shittu_adams)
 
