@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python** 
 
-- 📄 My repository [https://github.com/shittuadams?tab=repositories](https://github.com/shittuadams?tab=repositories)
+- 📄 My repositories: [https://github.com/shittuadams?tab=repositories](https://github.com/shittuadams?tab=repositories)
 
 - 👨‍💻 All of my projects are available at [https://shittuadams.github.io/Portfolio/](https://shittuadams.github.io/Portfolio/)
 
