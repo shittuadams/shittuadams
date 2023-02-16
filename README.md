@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shittuadams&label=Profile%20views&color=0e75b6&style=flat" alt="shittuadams" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** 
+
+- 📄 My repository [https://github.com/shittuadams?tab=repositories](https://github.com/shittuadams?tab=repositories)
 
 - 👨‍💻 All of my projects are available at [https://shittuadams.github.io/Portfolio/](https://shittuadams.github.io/Portfolio/)
 
