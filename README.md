@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adams Shittu</h1>
-<h3 align="center">A passionate Data Analyst from Nigeria</h3>
+<h3 align="center">A passionate Front End Developer and Data Analyst from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shittuadams&label=Profile%20views&color=0e75b6&style=flat" alt="shittuadams" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://shittuadams.github.io/Portfolio/](https://shittuadams.github.io/Portfolio/)
 
-- 📝 I regularly write articles on [https://medium.com/@shittu_adams](https://medium.com/@shittu_adams)
+- 📝 Read my articles on [https://medium.com/@shittu_adams](https://medium.com/@shittu_adams)
 
-- 💬 Ask me about **Excel, SQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, Excel, SQL**
 
 - 📫 How to reach me - **shttdms@gmail.com**
 
